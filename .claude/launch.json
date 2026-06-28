@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "etf-dash", "runtimeExecutable": ".venv/bin/python", "runtimeArgs": ["-m","http.server","8731","--directory","data"], "port": 8731 }
+  ]
+}
